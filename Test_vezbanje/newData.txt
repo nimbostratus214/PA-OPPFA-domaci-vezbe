@@ -1,0 +1,3 @@
+tekst koji treba da bude obradjen u programu. Nemam pojma sta tacno ovde pise, ali nije ni vanzno.
+probamo da li radi novi red, mogao sam ovde staviti i tekst zadatka bilo bi vrh.
+da probamo ucitati sve stringove, i onda da vid'mo sta c' se desi.
